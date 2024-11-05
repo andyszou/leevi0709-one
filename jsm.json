@@ -22,15 +22,15 @@
             "ext": "./lib/tokenm.json"
         },
         {
-            "key": "yydsys",
-            "name": "多多玩偶┃网盘",
+            "key": "yyds",
+            "name": "多多影音┃网盘",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://tv.yydsys.cc/$$$noproxy$$$1$$$./lib/wogg.json"
+            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json"
         },		
         {
             "key": "Wogg",
@@ -53,17 +53,6 @@
             "filterable": 1,
             "timeout": 60,
             "ext": "./lib/tokenm.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json"
-        },
-        {
-            "key": "yyds",
-            "name": "多多影音┃网盘",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 1,
-            "timeout": 60,
-            "ext": "./lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json"
         },
         {
             "key": "tudou",
